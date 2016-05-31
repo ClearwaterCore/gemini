@@ -1,3 +1,0 @@
-[submodule "modules/app-servers"]
-	path = modules/app-servers
-	url = git@github.com:ClearwaterCore/clearwater-app-servers.git
